@@ -1,0 +1,21 @@
+it:
+    plugin_spent_time_in_issue:
+        timeEntries: Immissioni di tempo
+        spentOn: Impiegato su
+        max_display: Massimo numero di immissioni mostrate
+        time_format: Formato Tempo
+        time_format_decimal: Decimali ( 1.5 )
+        time_format_human: Formato leggibile ( 1hr ) 
+        datetime:
+          hours:
+            one: 1 ora
+            other: "%{hours} ore"
+          minutes:
+            one: 1 minuto
+            other: "%{minutes} minuti"
+        user: Utente
+        hours: Ore
+        comments: Commenti
+        display_cols: Mostra Colonne
+        activity: Attivita'
+        seeAllCount: "( mostra le %{count} immissioni )"
